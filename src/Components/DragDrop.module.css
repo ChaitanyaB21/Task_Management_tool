@@ -1,0 +1,12 @@
+.master-div{
+    width: auto;
+    height: auto;
+    border: 3px dotted black;
+    padding: 5px;
+}
+
+.preview-image {
+    width: 200px; /* Set the desired width */
+    height: 200px; /* Set the desired height */
+    object-fit: cover; /* Adjust the object-fit property as needed */
+  }
